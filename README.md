@@ -7,7 +7,7 @@ This is the code that I used for my tutorial, Getting Started With Flask, publis
 
 It is a beginner tutorial that covers:
 
-Installation of Flask and its prerequisites
-Recommended file and directory structure for a Flask project
-Configuration and initialization of a Flask app
-Creating views and templates
+- Installation of Flask and its prerequisites
+- Recommended file and directory structure for a Flask project
+- Configuration and initialization of a Flask app
+- Creating views and templates
