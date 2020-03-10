@@ -1,7 +1,8 @@
 # Application-Flask-Pyhton3
 Just Sample Project
 
-featured-image
+https://raw.githubusercontent.com/andela-mnzomo/getting-started-with-flask/master/getting-started-with-flask.jpg
+
 This is the code that I used for my tutorial, Getting Started With Flask, published on Scotch.io.
 
 It is a beginner tutorial that covers:
